@@ -1,8 +1,8 @@
-<h1 align="center"><b>Wsupp, I'm Iván Fernández</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Iván Fernández</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Cool Dev" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB1cXBwdG5rY2V2dXA4eDUxYzBjM3Q3enRqdHV4cHBneDZ2a3NlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif" />
+<img align="right" width=300px alt="Cat" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB1cXBwdG5rY2V2dXA4eDUxYzBjM3Q3enRqdHV4cHBneDZ2a3NlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif">
 
-<h2>🌠 About me</h2>
+**🌠 About me**
 
 I'm studying at UTN (National Technological University of Argentina), where I'm pursuing a Technical Degree in Programming. I'm still learning, but I know I want to create projects with identity. I've allways been passionate about tech world and now im giving my first steps.
 
