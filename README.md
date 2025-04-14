@@ -14,7 +14,6 @@ I'm studying at UTN (National Technological University of Argentina), where I'm 
 - 🤝 Looking to join development teams where I can contribute solutions while continuing to grow professionally
 - 🎱 Outside of tech, I'm into fashion, and music.
 - 📫 Reach out to me at: <a href="https://www.linkedin.com/in/ivnfdzz/">Linkedin</a> or at <a href="mailto:ivnfdzz@gmail.com">ivnfdzz@gmail.com</a>
-- 📸 A bit less serious here: <a href="https://instagram.com/ivnfdzz">@ivnfdzz</a>
 
 ---
 
