@@ -11,8 +11,7 @@ I'm studying at UTN (National Technological University of Argentina), where I'm 
 - 📦 I'm currently learning JavaScript while improving my OOP and Python skills
 - 🌐 Private English tutor with B2 Cambridge certification - strong communication and active listening skills
 - 🔍 Passionate about creative problem solving and self-learning
-- 🤝 Looking to join development teams where I can contribute solutions while continuing to grow professionally
-- 🎱 Outside of tech, I'm into fashion, and music.
+- 🤝 Looking to join development teams where I can contribute solutions while continuing to grow professionall
 - 📫 Reach out to me at: <a href="https://www.linkedin.com/in/ivnfdzz/">Linkedin</a> or at <a href="mailto:ivnfdzz@gmail.com">ivnfdzz@gmail.com</a>
 
 ---
