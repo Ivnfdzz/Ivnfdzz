@@ -59,7 +59,7 @@ I'm studying at UTN (National Technological University of Argentina), where I'm 
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/Ivnfdzz/Sistema_control_Stock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ivnfdzz&repo=Sistema_control_Stock&theme=tokyonight&show_icons=true" alt="Sistema Control Stock Repo" />
+  <a href="https://github.com/Ivnfdzz/PickNPlay">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ivnfdzz&repo=PickNPlay&theme=tokyonight&show_icons=true" alt="PickNPlay Repo" />
   </a>
 </div>
