@@ -58,8 +58,4 @@ I'm studying at UTN (National Technological University of Argentina), where I'm 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ivnfdzz&repo=Jungle_Quest&theme=tokyonight&show_icons=true" alt="Jungle Quest Repo" />
   </a>
 </div>
-<div align="center">
-  <a href="https://github.com/Ivnfdzz/PickNPlay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ivnfdzz&repo=PickNPlay&theme=tokyonight&show_icons=true" alt="PickNPlay Repo" />
-  </a>
-</div>
+
