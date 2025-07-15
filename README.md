@@ -44,18 +44,13 @@ I'm studying at UTN (National Technological University of Argentina), where I'm 
   <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
 </p>
 
-<h4 align="center">A bit of Design & Media</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
-</p>
-
----
 <h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/Ivnfdzz/Jungle_Quest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ivnfdzz&repo=Jungle_Quest&theme=tokyonight&show_icons=true" alt="Jungle Quest Repo" />
   </a>
-</div>
+  <a href="https://github.com/Ivnfdzz/PickNPlay">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ivnfdzz&repo=PickNPlay&theme=tokyonight&show_icons=true" alt="PickNPlay Repo" />
+  </a>
+</p>
 
