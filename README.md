@@ -3,14 +3,13 @@
 <img align="right" width=300px alt="Cat" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB1cXBwdG5rY2V2dXA4eDUxYzBjM3Q3enRqdHV4cHBneDZ2a3NlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif" style="margin-top:20px;">
 
 <p>
-I'm studying at UTN (National Technological University of Argentina), where I'm pursuing a Technical Degree in Programming. I'm still learning, but I know I want to create projects with identity. I've allways been passionate about tech world and now im giving my first steps.
+I'm currently pursuing a Technical Degree in Programming at UTN (National Technological University of Argentina). I'm eager to build projects with identity and purpose, and I'm just beginning my journey in the tech world, a space I've always been passionate about..
 </p>
 
-- 📦 I'm currently learning JavaScript while improving my OOP and Python skills
-- 🌐 Private English tutor with B2 Cambridge certification - strong communication and active listening skills
-- 🔍 Passionate about creative problem solving and self-learning
-- 🤝 Looking to join development teams where I can contribute solutions while continuing to grow professionall
-- 📫 Reach out to me at: <a href="https://www.linkedin.com/in/ivnfdzz/">Linkedin</a> or at <a href="mailto:ivnfdzz@gmail.com">ivnfdzz@gmail.com</a>
+- 🔍 Constantly exploring: I'm super into tech and always experimenting with new software development tools.
+- 📦 Backend aspirations: My goal is to really step up my game as a backend developer and dive into challenging projects that keep me on my toes!
+- 🤝 Collaborative growth: I'm actively looking to join development teams where I can contribute solutions and grow professionally.
+- 📫 Let's connect! Reach out to me on <a href="https://www.linkedin.com/in/ivnfdzz/">Linkedin</a> or at <a href="mailto:ivnfdzz@gmail.com">ivnfdzz@gmail.com</a>
 
 ---
 
@@ -22,7 +21,7 @@ I'm studying at UTN (National Technological University of Argentina), where I'm 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </p>
 
 <h4 align="center">Databases</h4>
@@ -36,7 +35,7 @@ I'm studying at UTN (National Technological University of Argentina), where I'm 
 <h4 align="center">Other Tools and Platforms</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
