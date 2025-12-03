@@ -57,7 +57,3 @@ I enjoy creating systems with purpose, clear architecture and well-designed logi
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </p>
-
----
-
-<h2 align="center">🚀 Featured Projects</h2> <p align="center"> <a href="https://github.com/Ivnfdzz/Jungle_Quest"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ivnfdzz&repo=Jungle_Quest&theme=tokyonight&show_icons=true" alt="Jungle Quest Repo" /> </a> <a href="https://github.com/Ivnfdzz/PickNPlay"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ivnfdzz&repo=PickNPlay&theme=tokyonight&show_icons=true" alt="PickNPlay Repo" /> </a> </p>
